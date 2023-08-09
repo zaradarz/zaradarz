@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Zara Dar</h1>
+<h3 align="center">A bioengineer who found a passion for programming and creating content 🦾</h3>
 
-<!--
-**zaradarz/zaradarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- More about me on my personal website: [zaradarz.com](https://zaradarz.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### About me:
+<!-- ABOUT-ME-LIST:START -->
+- 👩‍💻 I’m currently working on improving my programming skills.
+- 🌱 I’m always loooks for fun ways to connect with my audience while learning something new along the way.
+- 📫 How to reach me: [zaradarz.com](https://zaradarz.com)
+- 📍 Texas, USA
 -->
+
+  <!-- ABOUT-ME-LIST:END -->
