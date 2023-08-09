@@ -10,6 +10,6 @@
 - 🌱 I’m always loooks for fun ways to connect with my audience while learning something new along the way.
 - 📫 How to reach me: [zaradarz.com](https://zaradarz.com)
 - 📍 Texas, USA
--->
+
 
   <!-- ABOUT-ME-LIST:END -->
