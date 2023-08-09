@@ -7,7 +7,7 @@
 ### About me:
 <!-- ABOUT-ME-LIST:START -->
 - 👩‍💻 I’m currently working on improving my programming skills.
-- 🌱 I’m always loooks for fun ways to connect with my audience while learning something new along the way.
+- 🌱 I’m always looking for fun ways to connect with my audience while learning something new along the way.
 - 📫 How to reach me: [zaradarz.com](https://zaradarz.com)
 - 📍 Texas, USA
 
