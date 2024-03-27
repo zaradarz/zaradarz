@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zara Dar</h1>
-<h3 align="center">A bioengineer who found a passion for programming and creating content 🦾</h3>
+<h3 align="center">An engineer who found a passion for programming and creating content 🦾</h3>
 
 
 - More about me on my personal website: [zaradarz.com](https://zaradarz.com)
